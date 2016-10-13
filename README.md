@@ -5,7 +5,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/bars-browserify.svg?maxAge=604800)](https://npm-stat.com/charts.html?package=bars-browserify&from=2016-09-01)
 [![npm downloads](https://img.shields.io/npm/dt/bars-browserify.svg?maxAge=604800)](https://npm-stat.com/charts.html?package=bars-browserify&from=2016-09-01)
 
-A Browserify transform for Bars template files.
+A Browserify transform for Bars template files.  Precompile [Bars](https://github.com/Mike96Angelo/Bars) templates and package your app using [Browserify](http://browserify.org).
 
 ## Installation ##
 
