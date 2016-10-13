@@ -1,0 +1,31 @@
+{
+  "name": "bars-browserify",
+  "version": "1.0.0",
+  "description": "A Browserify transform for Bars template files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike96Angelo/Bars-Browserify.git"
+  },
+  "keywords": [
+    "bars",
+    "browserify",
+    "template",
+    "html"
+  ],
+  "author": "Michaelangelo Jong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mike96Angelo/Bars-Browserify/issues"
+  },
+  "homepage": "https://github.com/Mike96Angelo/Bars-Browserify#readme",
+  "dependencies": {
+    "through": "^2.3.8"
+  },
+  "devDependencies": {
+    "bars": "^0.4.2"
+  }
+}
